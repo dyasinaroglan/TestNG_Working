@@ -1,0 +1,15 @@
+<suite name="MySuite">
+    <tests name="My tests">
+        <test>
+        <classes>
+            <class name="day_01._01Giris"/>
+            <class name="day_01._04Example"/>
+        </classes>
+    </test>
+        <test>
+            <classes>
+                <class name="day_01.BasitTest"/>
+            </classes>
+        </test>
+    </tests>
+</suite>

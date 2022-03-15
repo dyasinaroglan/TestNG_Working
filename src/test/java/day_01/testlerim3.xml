@@ -1,0 +1,14 @@
+<suite name="Mysuit3">
+    <tests name="My tests3">
+        <test name="My exclude">
+            <classes>
+                <class name="day_01._03Attributes"/>
+                <methods>
+                    <exclude name="test02"/>
+                    <exclude name="test01"/>
+                </methods>
+
+            </classes>
+        </test>
+    </tests>
+</suite>

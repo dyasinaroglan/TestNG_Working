@@ -1,0 +1,18 @@
+
+    <suite name="My suite">
+        <tests name="'My Tests">
+            <test name="Test1">
+                <classes>
+                    <class name="day_01._04Example"/>
+                    <class name="day_01._05Giris"/>
+                </classes>
+            </test>
+
+            <test name="Test2">
+                <classes>
+                    <class name="day_01._03Attributes"/>
+                    <class name="day_01._02Annotations"/>
+                </classes>
+            </test>
+        </tests>
+    </suite>

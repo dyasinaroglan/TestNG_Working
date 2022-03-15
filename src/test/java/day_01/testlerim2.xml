@@ -1,0 +1,16 @@
+<suite name="My suite2">
+    <tests name="My tests2">
+        <test name="ınclude test">
+            <classes>
+                <class name="day_01._04Example"/>
+                <methods>
+                    <include name="siteGit"/>
+                    <include name="driverTanımla"/> //include diyerek sadece istediğimiz methodu çalıştır diyebiliyoruz.
+                </methods>
+
+            </classes>
+        </test>
+
+    </tests>
+
+</suite>

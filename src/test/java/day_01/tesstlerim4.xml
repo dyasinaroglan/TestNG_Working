@@ -1,0 +1,17 @@
+<suite name="My suite4">
+    <tests name="My tests4">
+        <test name="Group Test">
+            <classes>
+                <class name="day_01._05Giris"/>
+            </classes>
+        </test>
+
+        <test name="Group Test4">
+            <groups>
+                <run>
+                    <exclude name="grupA"/>
+                </run>
+            </groups>
+        </test>
+    </tests>
+</suite>
