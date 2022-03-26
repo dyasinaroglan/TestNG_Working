@@ -1,0 +1,13 @@
+Adress: http://opencart.abstracta.us/
+
+Testler
+    1.    Login Test
+        Kullanici ve sifre ile giris yapin ve login oldugunuzu assert edin
+
+    2.    MyAccount"a gidin, Address Book"a gidin ve bir adres ekleyin. Adresi Default adres olarak belirleyin.
+        Adresin kayit edildiginden emin olun
+
+    3.    Searchde "ipod" aratin
+        Listelenen ürünlerden random bir tanesini secin ve sepete ekleyin
+        Sepetteki ürünün secilen ürün isim ve fiyatinin dogru oldugundan emin olun
+        Checkout ile devam edip ürünün satin alma islemini tamamlayin
